@@ -27,5 +27,4 @@ python expense_tracker.py
 - Update Expenses
 - Search by Category
 - Export to CSV
-- GUI Version using Tkinter# Expense-Tracker-Python
-A command-line Expense Tracker built using Python and SQLite.
+- GUI Version using Tkinter
